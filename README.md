@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Rute 👋
 
-#### My name is Rute and I’m currently start learning C programming :computer:
-#### I love to learn and to improve myself!
-#### Fun fact: I have a pharmacy degree :pill:
+#### :computer: I’m currently start learning C programming 
+#### :heart: I love to learn and to improve myself!
+#### :pill: Fun fact: I have a pharmacy degree
+#### :mailbox: How to reach me:
+##### Slack: rugoncal (42born2code)
+##### Email: rugoncal@student.42porto.com 
