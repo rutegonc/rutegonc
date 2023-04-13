@@ -1,17 +1,17 @@
-# 💫 About Me:
+## 💫 About Me:
 ### Hi there, I'm Rute 👋
 
 #### :computer: I’m currently start learning C programming 
 #### :heart: I love to learn and to improve myself!
 #### :pill: Fun fact: I have a pharmacy degree
 #### :mailbox: How to reach me:
-##### Slack: rugoncal (42born2code)
-##### Email: rugoncal@student.42porto.com 
+#### Slack: rugoncal (42born2code)
+#### Email: rugoncal@student.42porto.com 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://awesome-github-stats.azurewebsites.net/user-stats/rugoncal?cardType=github&theme=radical&preferLogin=false)
 
 ## 💰 You can help me
