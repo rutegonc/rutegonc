@@ -4,8 +4,7 @@
 #### :computer: I’m currently learning C programming @42
 #### :pill: Fun fact: I have a pharmacy degree
 #### :mailbox: How to reach me:
-#### Slack: rugoncal (42born2code)
-#### E-mail: rugoncal@student.42porto.com 
+#### E-mail: rugoncal@duck.com 
 <a href="https://www.linkedin.com/in/ruteg">
 		<img src="https://img.shields.io/badge/-LinkedIn-2975FE?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn">
 
